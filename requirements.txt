@@ -1,0 +1,12 @@
+PyQt6==6.6.1
+requests==2.31.0
+openai==1.12.0
+APScheduler==3.10.4
+cryptography==41.0.7
+python-dotenv==1.0.0
+matplotlib==3.8.2
+pandas==2.1.4
+sqlalchemy==2.0.23
+pillow==10.1.0
+ffmpeg-python==0.2.0
+instabot==0.117.0  # For Instagram automation (note: may need updates for API changes)
